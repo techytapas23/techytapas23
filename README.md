@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techytapas23&label=Profile%20views&color=0e75b6&style=flat" alt="techytapas23" /> </p>
 
-- 🔭 I’m currently working on [BBuainess Insights 360](https://github.com/techytapas23/Business-Insights-360)
+- 🔭 I’m currently working on [Business Insights 360](https://github.com/techytapas23/Business-Insights-360)
 
 - 🌱 I’m currently learning **Data Analytics**
 

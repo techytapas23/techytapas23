@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techytapas23&label=Profile%20views&color=0e75b6&style=flat" alt="techytapas23" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Data Analysis](https://github.com/techytapas23/Ecommerce-Store-Data-Analysis)
+- 🔭 I’m currently working on [BBuainess Insights 360](https://github.com/techytapas23/Business-Insights-360)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/techytapas/](https://www.linkedin.com/in/techytapas/)
 
-- 💬 Ask me about **Python,DataScience,Machine Learning & Data Analyst**
+- 💬 Ask me about **Python,DataScience,Machine Learning & Data Analytics**
 
 - 📫 How to reach me **info.tapasnayak@gmail.com**
 
